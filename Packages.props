@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <PackageReference Update="LinqToCsv" Version="1.5.0" />
+  </ItemGroup>
   <Import Project="BuildImport\Packages.props" />
 </Project>
