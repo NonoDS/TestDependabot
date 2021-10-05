@@ -1,0 +1,9 @@
+﻿{
+  "sdk": {
+    "allowPrerelease": false
+  },
+  "msbuild-sdks": {
+    "Microsoft.Build.NoTargets": "2.0.1",
+    "Microsoft.Build.CentralPackageVersions": "2.0.79"
+  }
+}
